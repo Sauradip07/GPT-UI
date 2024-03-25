@@ -8,6 +8,12 @@ Introduction
 
 A simple interface for Ollama models, allowing you to chat with your models, save conversations and toggle between different ones easily.
 
+
+
+https://github.com/Sauradip07/GPT-UI/assets/82558066/4783fc58-7f05-4f03-9dfd-868a309c2c94
+
+
+
 Features
 --------
 
